@@ -24,6 +24,10 @@ img{
     height: 30%;
 }
 
+h1{
+    padding: 2% 0 4% 2%;
+}
+
 h2{
     font-size: 1.2rem;
 }
